@@ -36,7 +36,7 @@ This Excel project is a **AI JOB DATASET** that provides interactive visualizati
 
 ## 📈 Dataset Description
 
-The dataset contains fictional retail sales data with the following fields:
+The dataset contains AI related Skill,job, Experience, salary, remote ratio, job at different country  data with the following fields:
 
 job_id
 job_title
